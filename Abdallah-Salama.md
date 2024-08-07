@@ -1,8 +1,7 @@
 # 💫 About Me:
 Passionate aspiring back-end software engineer keen on PHP Laravel and solid software principles. I enjoy building efficient and scalable web applications. Excited to learn and contribute in a dynamic team environment.<br>
 
-![](https://github-readme-stats.vercel.app/api?username=abdallah-salama2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abdallah-salama2&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=abdallah-salama2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  ![](https://github-readme-streak-stats.herokuapp.com/?user=abdallah-salama2&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah-salama2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 💻 Tech Stack:
