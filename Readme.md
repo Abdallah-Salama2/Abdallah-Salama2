@@ -18,7 +18,7 @@ Passionate aspiring back-end software engineer keen on PHP Laravel and solid sof
 <h3>Development Technologies</h3>
 <p>
   <a href="https://www.linkedin.com/in/abdallah-salamah/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,babel,mysql,react,vite,flutter,[inertia](https://avatars.githubusercontent.com/u/47703742?s=280&v=4),vue,postgres" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,babel,mysql,react,vite,flutter,![47703742](https://github.com/user-attachments/assets/455232f7-4211-4e0c-91e2-e34394e8fcdd),vue,postgres" />
   </a>
 </p>
 
