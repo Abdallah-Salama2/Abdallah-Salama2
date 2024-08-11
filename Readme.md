@@ -18,7 +18,7 @@ Passionate aspiring back-end software engineer keen on PHP Laravel and solid sof
 <h3>Development Technologies</h3>
 <p>
   <a href="https://www.linkedin.com/in/abdallah-salamah/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,babel,mysql,react,vite,fluuter,inertia,vue,postgres" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,babel,mysql,react,vite,flutter,[inertia](https://avatars.githubusercontent.com/u/47703742?s=280&v=4),vue,postgres" />
   </a>
 </p>
 
@@ -54,5 +54,5 @@ Here are some ideas to get you started:
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/mo-abdel-samie/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mo-abdel-samie" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdallah-salamah/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mo-abdel-samie" height="30" width="40" /></a>
 </p>
